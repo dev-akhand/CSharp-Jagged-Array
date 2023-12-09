@@ -1,4 +1,5 @@
 # CSharp-Jagged-Array
+=> Jagged array is an array of arrays.
 Output
 
 Akhand
